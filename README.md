@@ -6,5 +6,4 @@ enablement processes, improve follow-up quality, and reduce manual work for Acco
 ## Features
 - Post-demo email recap generator
 - Cold outbound email writer
-- Sales call review summarizer
-- AI sales enablement assistant (prompt-based)
+- Sales demo review summarizer
