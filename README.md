@@ -7,3 +7,6 @@ enablement processes, improve follow-up quality, and reduce manual work for Acco
 - Post-demo email recap generator
 - Cold outbound email writer
 - Sales demo review summarizer
+
+## How to Use
+These prompts were designed and tested in tools like ChatGPT, Claude, and Gemini. You can open the `.ipynb` files in Google Colab or your local Jupyter environment to explore the logic and customize inputs.
